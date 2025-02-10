@@ -39,11 +39,15 @@ To use the database files locally, follow these steps:
    ```bash
    git clone https://github.com/bernardowusumensah/humber-database.git
 
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Usage
 Here are some sample commands to use the database scripts:
    ```bash
    -- Example query
 SELECT * FROM students WHERE grade = 'A';
+
 
 
 
