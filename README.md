@@ -31,3 +31,6 @@ To use the database files locally, follow these steps:
 
    ```bash
    git clone https://github.com/bernardowusumensah/humber-database.git
+
+## Usage
+Here are some sample commands to use the database scripts:
