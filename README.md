@@ -37,3 +37,6 @@ Here are some sample commands to use the database scripts:
    ```bash
    -- Example query
 SELECT * FROM students WHERE grade = 'A';
+
+
+##  Contributing
