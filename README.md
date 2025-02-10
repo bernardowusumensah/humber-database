@@ -3,6 +3,17 @@
 ## **Description**
 
 This repository contains database-related projects and exercises for the **Humber College** curriculum. It includes SQL queries, schema designs, and database implementations.
+## Table of Contents
+
+- [About](#about)
+- [Features](#Features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+
 
 ## **Features**
 
