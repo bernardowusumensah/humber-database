@@ -23,6 +23,13 @@ This repository contains database projects and examples primarily centered aroun
 - Database schema and structure for various exercises
 - Relational database design examples
 
+## Contributing
+- Fork the repository.
+- Create a new branch (git checkout -b feature-name).
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature-name).
+- Create a pull request.
+
 ## **Installation**
 
 To use the database files locally, follow these steps:
@@ -39,4 +46,4 @@ Here are some sample commands to use the database scripts:
 SELECT * FROM students WHERE grade = 'A';
 
 
-##  Contributing
+
