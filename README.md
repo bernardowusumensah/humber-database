@@ -12,7 +12,9 @@ This repository contains database-related projects and exercises for the **Humbe
 - [Contributing](#contributing)
 - [License](#license)
 
+## About
 
+This repository contains database projects and examples primarily centered around SQL. You can find code examples, tutorials, and other resources related to DATABASE using SQL.
 
 
 ## **Features**
